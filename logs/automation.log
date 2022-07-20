@@ -1,0 +1,6 @@
+2022-07-16 23:59:06,224 :INFO : utilities.customLogger :*******************Test_003_Logout***********
+2022-07-16 23:59:06,224 :INFO : utilities.customLogger :******************* verifying log0ut ***********
+2022-07-16 23:59:33,441 :INFO : utilities.customLogger :******************* log0ut test passed ***********
+2022-07-17 00:05:01,501 :INFO : utilities.customLogger :*******************Test_003_Logout***********
+2022-07-17 00:05:01,501 :INFO : utilities.customLogger :******************* verifying log0ut ***********
+2022-07-17 00:05:17,575 :INFO : utilities.customLogger :******************* log0ut test passed ***********

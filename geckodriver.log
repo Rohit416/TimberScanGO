@@ -1,0 +1,18 @@
+1654960411733	geckodriver	INFO	Listening on 127.0.0.1:1707
+1654960414866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Prudhvi\\AppData\\Local\\Temp\\rust_mozprofilegQwU6a"
+1654960504219	geckodriver	INFO	Listening on 127.0.0.1:1796
+1654960507519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Prudhvi\\AppData\\Local\\Temp\\rust_mozprofileO5m6WE"
+1654960522317	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:1797
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Prudhvi\\AppData\\Local\\Temp\\rust_mozprofileO5m6WE\\search.json.mozlz4", (void 0)))
+1654960538921	Marionette	INFO	Listening on port 1826
+DevTools listening on ws://localhost:1797/devtools/browser/8c3a50a6-9ad1-4fe8-b8c3-f14d8484b762
+Read port: 1826
+1654960539114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://avidpay.timberscango.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://avidpay.timberscango.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654960600825	Marionette	INFO	Stopped listening on port 1826
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
