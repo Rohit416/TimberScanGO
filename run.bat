@@ -1,1 +1,2 @@
-pytest -s -v --html= Reports\report.html testCases/ 
+pytest -v -s testCases/testing.py
+
